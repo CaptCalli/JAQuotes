@@ -1,0 +1,63 @@
+body {
+	font-family: 'Handlee';
+	font-size: 1.9rem;
+	text-align: center;
+	background-image: url(flowers.png);
+	margin: 0 25px;
+}
+
+h1 {
+	font-family: 'Prata', serif;
+	margin-top: 100px;
+}
+
+/*span {
+	font-size: 1.5rem;
+	letter-spacing: 1.75px;
+}
+*/
+
+span {
+	font-size: 2.5rem;
+	background-color: rgba(227, 234, 242, 0.5);
+}
+
+
+/* Flaired edges, by Tomas Theunissen */
+
+hr.style-seven {
+    overflow: visible; /* For IE */
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+    width: 40%;
+}
+hr.style-seven:before { /* Not really supposed to work, but does */
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+
+button {
+	border-radius: 15%;
+	background: rgba(255, 192, 203, 0.1);
+	border: solid 3px pink;
+	height: 50px;
+	width: 150px;
+	font-size: 20px;
+	font-family: 'Prata';
+	font-weight: bold;
+	outline: none;
+}
+
+button:hover {
+	background: pink;
+}
+
