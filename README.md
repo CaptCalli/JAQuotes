@@ -5,7 +5,7 @@ JAQuotes stands for Jane Austen Quotes.
 # Description
 
 JAQuotes is a simple webpage displaying a random Jane Austen quote on reload or press of the "New Quote" Button. 
-[JAQuotes Website](https://kernscode.github.io/JAQuotes/)
+[JAQuotes Website](https://kittykerns.github.io/JAQuotes/)
 
 # Usage
 
