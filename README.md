@@ -19,7 +19,7 @@ Open the webpage, and click on the "New Quote" Button to receive a new quote.
 
 # Support
 
-For support, feel free to contact me on [Twitter](@CaptCalli)
+For support, feel free to contact me on [Twitter](https://twitter.com/captcalli)
 
 ---
 
